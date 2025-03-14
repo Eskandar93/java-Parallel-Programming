@@ -1,2 +1,4 @@
 # java-Parallel-Programming
-Grades Students Analysis
+Grades Students Analysis By Multi-Thraeding
+- Read Multi files
+- Applied Operation
